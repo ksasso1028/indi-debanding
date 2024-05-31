@@ -2,7 +2,7 @@
 This repository implements training and tools to deband images and videos using generative models. 
 
 # Introduction to Image Banding
-Image banding is a visual artifact that appears when smooth color gradients are displayed with insufficient color depth, resulting in visible lines or "bands" instead of a seamless transition. This effect is particularly noticeable in areas with gradual color changes, such as skies or shadows.
+Image banding is a visual artifact that appears when smooth color gradients are displayed with insufficient color depth, resulting in visible lines or "bands" instead of a seamless transition. This effect is particularly noticeable in areas with gradual color changes, such as skies or shadows. Typically affects cameras with lower bit depth (8 bit footage)
 
 ## The Problem
 Banding can occur due to various reasons like image compression, low bit-depth formats, or improper processing techniques. It detracts from the visual quality of images and can be problematic in fields requiring high-precision visuals, such as photography, medical imaging, and digital art.
