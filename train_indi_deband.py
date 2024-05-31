@@ -6,13 +6,17 @@ from torch.utils.data import DataLoader
 from utils import fft_2d
 from utils  import Loss, SetupTrain, getLogger, getModelCallback, set_lightning_seed
 import lightning as L
+
 # set training datasets
 train = imageDebandDataset(csv='banded-train.csv')
 test = imageDebandDataset(csv='banded-test.csv', test=True)
+
 # Configure loss function, run INDI in the FFT domain, in both directions
 loss = Loss("L1 Loss", nn.L1Loss(), transform=fft_2d)
+
 # can replace network here.
 net = AutoFFTime2d(blocks=4, in_channels=24,channel_factor=24, weight=True,neck=False, layout=3, encoder_dil=1)
+
 # SetupTrain captures all parser args
 setup = SetupTrain(net)
 set_lightning_seed(setup)
