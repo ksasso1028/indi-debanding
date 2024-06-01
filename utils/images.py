@@ -13,6 +13,9 @@ def read_image(img_name, to_tensor = True):
     return image
 
 def cv_to_tensor(img):
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    img = img / 255
+    img = img.astype('float32')
     tensor = torch.from_numpy(img).permute(2, 0, 1)
     return tensor
 
