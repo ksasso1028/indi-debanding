@@ -10,6 +10,15 @@ https://github.com/ksasso1028/indi-debanding/assets/11267645/4def7b00-4bc7-4ca0-
 ![banded-example-8](https://github.com/ksasso1028/indi-debanding/assets/11267645/b0e23add-b42f-4680-b9d3-c5f530525c9d)
 ![restored-example-8](https://github.com/ksasso1028/indi-debanding/assets/11267645/2ac95c37-f75d-4ae7-9be4-0181cab31bf6)
 
+![banded-example-1](https://github.com/ksasso1028/indi-debanding/assets/11267645/8ae4159b-100b-44b0-aa57-72052eef79db)
+![restored-example-1](https://github.com/ksasso1028/indi-debanding/assets/11267645/856e951d-ff31-4af2-864c-6168e96b1a57)
+
+![banded-example-6](https://github.com/ksasso1028/indi-debanding/assets/11267645/d1c99c50-19f1-4c15-977b-0caa179e4f8c)
+![restored-example-6](https://github.com/ksasso1028/indi-debanding/assets/11267645/1de6ae89-20d4-44c3-8a50-8335570be4ba)
+
+![banded-example-2](https://github.com/ksasso1028/indi-debanding/assets/11267645/5dd6f45f-eef3-4edc-a2b8-ffd53511a3f5)
+![restored-example-2](https://github.com/ksasso1028/indi-debanding/assets/11267645/c5da7384-d4a9-47dd-a218-c6b2373e211f)
+
 
 
 
