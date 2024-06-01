@@ -2,7 +2,7 @@
 This repository implements training and tools to deband images and videos using generative models. 
 
 <video width="1920" height="1080" controls>
-  <source src="examples/example.mp4" type="video/mp4">
+  <source src="examples/example-video.mp4" type="video/mp4">
 </video>
 
 # Introduction to Image Banding
