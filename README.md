@@ -6,6 +6,13 @@ https://github.com/ksasso1028/indi-debanding/assets/11267645/4def7b00-4bc7-4ca0-
 
 
 
+# Examples
+![banded-example-8](https://github.com/ksasso1028/indi-debanding/assets/11267645/b0e23add-b42f-4680-b9d3-c5f530525c9d)
+![restored-example-8](https://github.com/ksasso1028/indi-debanding/assets/11267645/2ac95c37-f75d-4ae7-9be4-0181cab31bf6)
+
+
+
+
 
 # Introduction to Image Banding
 Image banding is a visual artifact that appears when smooth color gradients are displayed with insufficient color depth, resulting in visible lines or "bands" instead of a seamless transition. This effect is particularly noticeable in areas with gradual color changes, such as skies or shadows. Typically affects cameras with lower bit depth (8 bit footage)
