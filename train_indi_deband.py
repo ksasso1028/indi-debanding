@@ -3,8 +3,7 @@ from models.unet2d import  AutoFFTime2d
 import torch.nn as nn
 from deband_dataset import imageDebandDataset
 from torch.utils.data import DataLoader
-from utils import fft_2d
-from utils  import Loss, SetupTrain, getLogger, getModelCallback, set_lightning_seed
+from utils  import Loss, SetupTrain, getLogger, getModelCallback, set_lightning_seed, fft_2d
 import lightning as L
 
 # set training datasets
