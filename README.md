@@ -37,3 +37,10 @@ Optimizing generative models in both phase and magnitude spaces improves image q
 - Enhancing Realism: Combined optimization produces images that are both accurate and visually appealing.
 - Heavily penalizes differences in structure and color between the output and target
 
+
+TODO:
+
+- [ ] upload script to process videos with FFMPEG and avoid re encoding new video with debanded frames
+- [x] upload model weights
+- [ ] discuss dataset used + metrics
+
