@@ -7,7 +7,7 @@ https://github.com/ksasso1028/indi-debanding/assets/11267645/4def7b00-4bc7-4ca0-
 
 
 # Examples
-full resolution can be seen in the examples folder
+Full resolution results can be seen in the examples folder, network can handle variable size inputs without preprocessing.
 ![deband-collage](https://github.com/ksasso1028/indi-debanding/assets/11267645/f18d3d18-dba4-4b16-b8ca-c6b89ea45860)
 
 
